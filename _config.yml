@@ -1,11 +1,12 @@
 # Setup
 title:               Everything Flows
 tagline:             Prayag Chatha's Webpage
-description:         Welcome!
+description:         The Path there is, but none who travel it.
 url:                 https://chathasphere.github.io/
 baseurl:             ''
 paginate:            5
 permalink:           pretty
+# consider: permalink: /:categories/:title/
 
 # About/contact
 author:
