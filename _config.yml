@@ -1,7 +1,7 @@
 # Setup
-title:               Everything Flows
-tagline:             Prayag Chatha's Webpage
-description:         The Path there is, but none who travel it.
+title:               Prayag Chatha
+tagline:             Everything Flows
+description:         the Path there is, but none who travel it
 url:                 https://chathasphere.github.io/
 baseurl:             ''
 paginate:            5
@@ -10,8 +10,7 @@ permalink:           pretty
 
 # About/contact
 author:
-  name:              Prayag Chatha
-  url:               A specter is haunting bird app
+  name:              Prayag George Singh Chatha
   email:             pchatha at umich dot edu
 
 # Gems

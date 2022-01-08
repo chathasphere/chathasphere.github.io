@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: category
 title: Notebooks
 ---
-A collection of writings on whatever I'm thinking about.
+Coming soon!
 
 <div id="archives">
     {% for post in site.categories.notebook %}
