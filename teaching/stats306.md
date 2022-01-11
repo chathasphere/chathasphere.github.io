@@ -22,4 +22,4 @@ For course-related questions, feel free to email me at **pchatha at umich dot ed
 
 | Date       | Lab  | Solution |
 |------------|------|----------|
-| January 11 | [link](https://colab.research.google.com/github/chathasphere/chathasphere.github.io/blob/main/teaching/306_materials/003_lab1.ipynb) | -     |
+| January 11 | [link](https://colab.research.google.com/github/chathasphere/chathasphere.github.io/blob/main/teaching/306_materials/003_lab1.ipynb) | [link](https://github.com/chathasphere/chathasphere.github.io/blob/main/teaching/306_materials/003_lab1_solutions.ipynb)     |
