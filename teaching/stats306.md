@@ -20,4 +20,6 @@ For the time being, I will be holding only remote office hours.
 For course-related questions, feel free to email me at **pchatha at umich dot edu** or reach out in the course's Slack workspace.  
 ## Lab Materials
 
-Coming soon!
+| Date       | Lab  | Solution |
+|------------|------|----------|
+| January 11 | [link](https://colab.research.google.com/github/chathasphere/chathasphere.github.io/blob/main/teaching/306_materials/003_lab1.ipynb) | -     |
