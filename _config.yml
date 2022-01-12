@@ -1,10 +1,9 @@
 # Setup
-title:               Prayag Chatha
-tagline:             Everything Flows
+title:               Everything Flows
+tagline:             Prayag Chatha's Webpage
 description:         the Path there is, but none who travel it
 url:                 https://chathasphere.github.io/
 baseurl:             ''
-paginate:            5
 permalink:           pretty
 # consider: permalink: /:categories/:title/
 

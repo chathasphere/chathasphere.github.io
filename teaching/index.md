@@ -14,4 +14,4 @@ Teaching Assistant at Wesleyan University
 - Opera and Oratorio[^1] (Spring 2013)
 
 
-[^1]: I do not sing very well, but I can sight read on two (and sometimes three or four) staves, so my first teaching role was as an accompanist. As to that former life, [*requiem aeternam dona eis.*](https://www.youtube.com/watch?v=Pa4o_nutl14) [Thwack.](https://www.youtube.com/watch?v=dgjcYk-MIEc)
+[^1]: I don't sing very well, but I can sight read two (and sometimes three or four) staves dependably, so my first teaching role was as an accompanist.
