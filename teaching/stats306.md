@@ -10,12 +10,13 @@ title: STATS 306
 [ZOOM LINK](https://umich.zoom.us/j/97271299787)
 
 ## Office Hours/Contact
-For the time being, I will be holding only remote office hours.
+*For the time being, I will be holding only remote office hours.*
 
-- Tuesdays, 1-2:30pm ([Zoom](https://umich.zoom.us/j/95153791660))
-- Thursdays, 10-11:30am ([Zoom](https://umich.zoom.us/j/95153791660))
+**Office Hours for the week of 1/17**
 
-*Note: After week one, I may alter these times to better fit students' schedules.*
+- Wednesday 1/19 4:30-6:00pm ([Zoom](https://umich.zoom.us/j/95153791660))
+- Thursday  1/20 10-11:30am ([Zoom](https://umich.zoom.us/j/95153791660))
+
 
 For course-related questions, feel free to email me at **pchatha at umich dot edu** or reach out in the course's Slack workspace.  
 ## Lab Materials
@@ -23,3 +24,4 @@ For course-related questions, feel free to email me at **pchatha at umich dot ed
 | Date       | Lab  | Solution |
 |------------|------|----------|
 | January 11 | [link](https://colab.research.google.com/github/chathasphere/chathasphere.github.io/blob/main/teaching/306_materials/003_lab1.ipynb) | [link](https://github.com/chathasphere/chathasphere.github.io/blob/main/teaching/306_materials/003_lab1_solutions.ipynb)     |
+| January 18 | [link](https://colab.research.google.com/github/chathasphere/chathasphere.github.io/blob/main/teaching/306_materials/003_lab2.ipynb)  | - |
