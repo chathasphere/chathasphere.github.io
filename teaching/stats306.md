@@ -27,3 +27,4 @@ For course-related questions, feel free to email me at **pchatha at umich dot ed
 | January 25 | [Download Lab 3](https://github.com/chathasphere/chathasphere.github.io/blob/main/teaching/306_materials/003_lab3.ipynb) | [Lab 3 Solutions](https://github.com/chathasphere/chathasphere.github.io/blob/main/teaching/306_materials/003_lab3_solutions.ipynb) |
 | February 1 | [Download Lab 4](https://github.com/chathasphere/chathasphere.github.io/blob/main/teaching/306_materials/003_lab4.ipynb) | [Lab 4 Solutions](https://github.com/chathasphere/chathasphere.github.io/blob/main/teaching/306_materials/003_lab4_solutions.ipynb) |
 | February 8 | [Download Lab 5](https://github.com/chathasphere/chathasphere.github.io/blob/main/teaching/306_materials/003_lab5.ipynb) | - | 
+| February 15 | [Download Midterm Review](https://github.com/chathasphere/chathasphere.github.io/blob/main/teaching/306_materials/003_lab6.ipynb) | - |
