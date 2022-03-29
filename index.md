@@ -6,7 +6,7 @@ title: Home
 <p align="center">
     <img src="{{site.url}}/assets/headshot.jpg" class="portrait" style="display: block; margin: auto;"
     alt="A Portrait of the Datawallah as a Young Man" width="200" >
-    <em>Insert techie blog cliché here</em>
+    <em># TODO: insert tech blog cliché here</em>
 </p>
 
 
