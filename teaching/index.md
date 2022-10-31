@@ -3,6 +3,7 @@ layout: category
 title: Teaching
 ---
 Graduate Student Instructor at University of Michigan, Ann Arbor
+- STATS 413 (Fall 2022)
 - [STATS 306](/teaching/stats306) (Winter 2022)
 - STATS 401 (Fall 2021)
 - STATS 401 (Winter 2021)
