@@ -6,10 +6,10 @@ title: Home
 <p align="center">
     <img src="{{site.url}}/assets/headshot.jpg" class="portrait" style="display: block; margin: auto;"
     alt="Outside of Parc de Belleville, Paris, September 2024" width="200" >
-    <em>The path there is, but none who travel it.</em>
+    <em>"The path there is, but none who travel it."</em>
 </p>
 
-I am a Ph.D. student in the Department of Statistics at University of Michigan, with an expected graduation date in summer 2025. I use emergent techniques in deep learning to enhance mechanistic, causal understanding of complex health problems. My research interests include Bayesian inference, deep learning, epidemiology, healthcare data, and stochastic simulation. I'm currently seeking a postdoc position in for next fall.
+I am a Ph.D. student in the Department of Statistics at University of Michigan, with an expected graduation date in summer 2025. I use emergent techniques in deep learning to enhance mechanistic, causal understanding of complex health problems. My research interests include Bayesian inference, deep learning, epidemiology, healthcare data, and stochastic simulation. I'm currently seeking a postdoc position for next fall.
 
 You can contact me at *pchatha [at] umich [dot] edu.*
 
