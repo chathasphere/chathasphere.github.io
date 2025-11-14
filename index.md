@@ -9,7 +9,7 @@ title: Home
     <em>"The path there is, but none who travel it."</em>
 </p>
 
-I am a Ph.D. student in the Department of Statistics at University of Michigan, with an expected graduation date in summer 2025. I use emergent techniques in deep learning to enhance mechanistic, causal understanding of complex health problems. My research interests include Bayesian inference, deep learning, epidemiology, healthcare data, and stochastic simulation. I'm currently seeking a postdoc position for next fall.
+I am a postdoctoral research fellow in the EpiBayes lab at the University of Michigan School of Public Health. My research interests include Bayesian inference, deep learning, epidemiology, healthcare data, and stochastic simulation. In 2025, I graduated from the Statistics Ph.D. program at UofM under the supervision of Jeff Regier and Jon Zelner.
 
 You can contact me at *pchatha [at] umich [dot] edu.*
 
